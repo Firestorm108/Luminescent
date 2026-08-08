@@ -75,4 +75,12 @@ There's one last part to do now. Since the arrays I bought don't come with lense
 
 Ok, so after looking at the datasheet, I think I found some decent collimating lenses. I talked with some people who know a bit more than optics than me and they said that since each individual laser diode in the array has an output power of less than 4 watts, I don't need a super specialized lens made of some crazy type of glass or something since the power isn't too high relatively. So I did some research and found a good part on ebay that should work.
 
+I hate making BOMs I hate making BOMS I hate making BOMs I hate making BOMS I hate making BOMs I hate making BOMS I hate making BOMs I hate making BOMS I hate making BOMs I hate making BOMS
+I hate making BOMs I hate making BOMS I hate making BOMs I hate making BOMS I hate making BOMs I hate making BOMS I hate making BOMs I hate making BOMS I hate making BOMs I hate making BOMS
+
+I made a BOM. On JLCPCB. It sucked but I did it. 
+
+<img width="1544" height="1047" alt="Screenshot 2026-08-08 at 12 15 35 AM" src="https://github.com/user-attachments/assets/677a9f53-c7eb-4c83-a461-97c2cc85b4f3" />
+
+
 Time Spent: 5 Hours
