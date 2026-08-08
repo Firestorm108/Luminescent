@@ -85,5 +85,7 @@ I made a BOM. On JLCPCB. It sucked but I did it.
 This is for my future reference to see what I need from Aliexpress.
 <img width="1629" height="330" alt="Screenshot 2026-08-08 at 12 17 40 AM" src="https://github.com/user-attachments/assets/4a9b3aa6-189e-4945-a19d-af1b8b3f68d0" />
 
+<img width="799" height="239" alt="Screenshot 2026-08-08 at 12 23 17 AM" src="https://github.com/user-attachments/assets/e4f4d0c6-9abf-41e5-8095-e307ce63b3f4" />
 
+$92, that's not too bad. Time to make ANOTHER freaking bom though.
 Time Spent: 5 Hours
