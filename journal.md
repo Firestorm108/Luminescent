@@ -1,3 +1,4 @@
+<img width="1359" height="298" alt="Screenshot 2026-08-08 at 12 17 27 AM" src="https://github.com/user-attachments/assets/97cc8037-55d5-463b-bd9d-d2b69fcc6fcc" />
 # August 4th 2026
 
 I started out deciding which laser diode to use.
@@ -81,6 +82,8 @@ I hate making BOMs I hate making BOMS I hate making BOMs I hate making BOMS I ha
 I made a BOM. On JLCPCB. It sucked but I did it. 
 
 <img width="1544" height="1047" alt="Screenshot 2026-08-08 at 12 15 35 AM" src="https://github.com/user-attachments/assets/677a9f53-c7eb-4c83-a461-97c2cc85b4f3" />
+This is for my future reference to see what I need from Aliexpress.
+<img width="1629" height="330" alt="Screenshot 2026-08-08 at 12 17 40 AM" src="https://github.com/user-attachments/assets/4a9b3aa6-189e-4945-a19d-af1b8b3f68d0" />
 
 
 Time Spent: 5 Hours
