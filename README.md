@@ -32,3 +32,26 @@ It fits inside a 3D printable portal gun with a voltmeter, safety, and trigger.
 
 
 <img width="1354" height="733" alt="image" src="https://github.com/user-attachments/assets/a48282d2-df8c-48e5-8e65-40508408f5e8" />
+
+
+# Bill of Materials
+
+| Item                                      | Price | Link                                                               |
+| ----------------------------------------- | ----: | ------------------------------------------------------------------ |
+| JLCPCB + Assembly + Shipping              |  $170 | [JLCPCB](https://jlcpcb.com)                                       |
+| Blue Laser Diode Array                    |  $140 | [eBay](https://www.ebay.com/itm/117338976687)                      |
+| LM338                                     |    $6 | [AliExpress](https://www.aliexpress.us/item/3256809812350367.html) |
+| Toggle Switches                           |    $3 | [AliExpress](https://www.aliexpress.us/item/3256805504896607.html) |
+| 0.625 ohm Resistors                       |    $2 | [AliExpress](https://www.aliexpress.us/item/3256809808109885.html) |
+| Mini Voltmeter                            |    $2 | [AliExpress](https://www.aliexpress.us/item/3256807826514920.html) |
+| Lithium Ion Battery + Charger (XT60 - DC) |   $32 | [AliExpress](https://www.aliexpress.us/item/3256811403962565.html) |
+| Cooling Fans + Heatsink                   |   $12 | [AliExpress](https://www.aliexpress.us/item/2251832856177807.html) |
+| Collimating Laser Lenses                  |   $40 | [eBay](https://www.ebay.com/itm/236181151103)                      |
+
+## Cost Summary
+
+|              |   Amount |
+| ------------ | -------: |
+| **Subtotal** | **$407** |
+| **Tax**      |  **$43** |
+| **Total**    | **$450** |
