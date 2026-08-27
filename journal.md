@@ -1,4 +1,4 @@
-<img width="1359" height="298" alt="Screenshot 2026-08-08 at 12 17 27 AM" src="https://github.com/user-attachments/assets/97cc8037-55d5-463b-bd9d-d2b69fcc6fcc" />
+
 # August 4th 2026
 
 I started out deciding which laser diode to use.
